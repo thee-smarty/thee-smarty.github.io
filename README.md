@@ -25,11 +25,10 @@ Hey there! I'm Bommana Phani Praharsha, a Computer Science enthusiast currently 
 - HTML
 - CSS
 - JavaScript
-- Bootstrap (optional)
 
 ## Getting Started
 
-To view the website, simply open the `index.html` file in your web browser.
+To view the website, simply open the url www.theesmarty.me in your web browser.
 
 ## Contributing
 
@@ -39,4 +38,4 @@ If you have any suggestions, improvements, or feature requests, feel free to ope
 
 Feel free to reach out to me via email at [admin@theesmarty.in](mailto:admin@theesmarty.in) or connect with me on [LinkedIn](https://www.linkedin.com/in/phanipraharshab).
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio repository!
