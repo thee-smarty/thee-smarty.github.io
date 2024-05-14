@@ -1,4 +1,4 @@
-# Phani Praharsha's Portfolio
+# Portfolio
 
 Welcome to my portfolio website repository! This website showcases my projects, skills, education, achievements, and more.
 
